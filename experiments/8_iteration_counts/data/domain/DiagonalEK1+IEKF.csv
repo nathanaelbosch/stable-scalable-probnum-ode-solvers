@@ -1,0 +1,12 @@
+method,N,L,d,dx,status,naccept,nnonliniter,nnonlinconvfail,nsolve_mean,niter_mean,nsolve_covariance,niter_covariance,nsolve_calibration,niter_calibration
+DiagonalEK1+IEKF,8,0.125,128,0.015625,Success,7190,28945,0,0,0,0,0,0,0
+DiagonalEK1+IEKF,12,0.1875,288,0.015625,Success,12957,42057,0,0,0,0,0,0,0
+DiagonalEK1+IEKF,16,0.25,512,0.015625,Success,14731,45666,0,0,0,0,0,0,0
+DiagonalEK1+IEKF,24,0.375,1152,0.015625,Success,9354,34807,0,0,0,0,0,0,0
+DiagonalEK1+IEKF,32,0.5,2048,0.015625,Success,13494,43587,0,0,0,0,0,0,0
+DiagonalEK1+IEKF,48,0.75,4608,0.015625,Success,10729,38347,0,0,0,0,0,0,0
+DiagonalEK1+IEKF,64,1.0,8192,0.015625,Success,11267,38899,0,0,0,0,0,0,0
+DiagonalEK1+IEKF,96,1.5,18432,0.015625,Success,12883,42398,0,0,0,0,0,0,0
+DiagonalEK1+IEKF,128,2.0,32768,0.015625,Success,17022,51039,0,0,0,0,0,0,0
+DiagonalEK1+IEKF,192,3.0,73728,0.015625,Success,15485,47764,3,0,0,0,0,0,0
+DiagonalEK1+IEKF,256,4.0,131072,0.015625,Success,17026,51053,0,0,0,0,0,0,0

@@ -1,0 +1,2 @@
+method,rtol,status,error,time,naccept,nreject,nnonliniter,nnonlinconvfail,nsolve_mean,niter_mean,nsolve_covariance,niter_covariance,nsolve_calibration,niter_calibration
+EK0,0.001,Success,1.4555069613061967e-5,0.132734988,37156,8,0,0,0,0,0,0,0,0

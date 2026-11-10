@@ -1,0 +1,2 @@
+method,rtol,status,error,time,naccept,nreject,nnonliniter,nnonlinconvfail,nsolve_mean,niter_mean,nsolve_covariance,niter_covariance,nsolve_calibration,niter_calibration
+MatfreeEK1,0.001,Success,1.6192060773981275e-6,0.089463793,85,0,0,0,85,7507,680,49611,85,1126

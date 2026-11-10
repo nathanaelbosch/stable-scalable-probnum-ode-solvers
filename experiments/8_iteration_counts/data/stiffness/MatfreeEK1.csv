@@ -1,0 +1,7 @@
+method,N,L,d,dx,status,naccept,nnonliniter,nnonlinconvfail,nsolve_mean,niter_mean,nsolve_covariance,niter_covariance,nsolve_calibration,niter_calibration
+MatfreeEK1,8,1.0,128,0.125,Success,56,0,0,56,369,448,2966,56,182
+MatfreeEK1,8,0.5,128,0.0625,Success,66,0,0,66,833,528,6343,66,352
+MatfreeEK1,8,0.25,128,0.03125,Success,87,0,0,87,2422,696,15847,87,961
+MatfreeEK1,8,0.125,128,0.015625,Success,107,0,0,107,5267,856,25606,109,1814
+MatfreeEK1,8,0.0625,128,0.0078125,Success,103,0,0,103,6273,824,26312,103,1159
+MatfreeEK1,8,0.03125,128,0.00390625,Success,234,0,0,234,19152,1872,70355,240,2269
